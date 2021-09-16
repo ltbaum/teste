@@ -1,0 +1,1 @@
+print("script criado no RStudio")
